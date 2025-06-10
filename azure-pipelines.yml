@@ -17,4 +17,4 @@ javaHomeOption: 'Path'
 jdkDirectory: '$(JAVA_HOME)' # Uses the manually set JAVA_HOME
 publishJUnitResults: true
 testResultsFiles: '**/surefire-reports/TEST-*.xml'
-goals: 'package
+goals: 'package'
